@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV /home/nicolas/WSL/dev-ia/TchatRoom/salle_du_chat/.venv
+setenv VIRTUAL_ENV /home/nicolas/WSL/dev-ia/brief-async-django/salle_du_chat/.venv
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"

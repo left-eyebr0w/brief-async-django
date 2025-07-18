@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/nicolas/WSL/dev-ia/TchatRoom/salle_du_chat/.venv
+VIRTUAL_ENV=/home/nicolas/WSL/dev-ia/brief-async-django/salle_du_chat/.venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

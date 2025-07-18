@@ -1,4 +1,4 @@
-#!/home/nicolas/WSL/dev-ia/TchatRoom/salle_du_chat/.venv/bin/python
+#!/home/nicolas/WSL/dev-ia/brief-async-django/salle_du_chat/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
